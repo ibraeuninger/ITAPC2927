@@ -1,0 +1,14 @@
+{
+  "name": "zitapc2927",
+  "version": "1.0.0",
+  "description": "ZITAPC2927",
+  "repositoryLayout": {
+    "formatVersion": 6,
+    "format": "json",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false",
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/96867D532FA31EEF8CC19E8DD4D50553_0"
+  }
+}
