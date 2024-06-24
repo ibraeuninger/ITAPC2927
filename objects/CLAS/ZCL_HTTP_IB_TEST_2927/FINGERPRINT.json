@@ -1,0 +1,50 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZCL_HTTP_IB_TEST_2927=========CCAU.abap",
+   "fingerprint":"GB+zmU/pn7MJpLxfdylaSGEtVUddhGB5YKlnjT3eLdxECsOBR6T87hzN5tLPlN7M5h9t3AfRTeKVz6J3067xFA=="
+  },
+  {
+   "name":"CINC ZCL_HTTP_IB_TEST_2927=========CCDEF.abap",
+   "fingerprint":"yJCD0aQmkwZHx4EB5yOh0/gb5q0ft84RR7Bby52itywYsW4lQPhrVu15jcbmNEKVk9tG4Y/PPjHTVqe7Kbop8Q=="
+  },
+  {
+   "name":"CINC ZCL_HTTP_IB_TEST_2927=========CCIMP.abap",
+   "fingerprint":"FdjfkfpYFjxorRw1np0mFGStZ0MVjNoUgykbXcsKxudgHRxGHugsyICpUTeJAa8cp4GOzdeBXqVcynvAYH4zvw=="
+  },
+  {
+   "name":"CINC ZCL_HTTP_IB_TEST_2927=========CCMAC.abap",
+   "fingerprint":"FXczUl/vguGlIr+WDiPLgtN3I3D/y4HXxYrniwFERXVkBGGmBdWuEef3PZG2u6G/VC/LgO/whqKJRhnWBFiI2g=="
+  },
+  {
+   "name":"CLAS ZCL_HTTP_IB_TEST_2927.asx.json",
+   "fingerprint":"oR+vd6O/J1GMFAyJmNLLcyFsszKjzts316lc2iHPgjiz2zxg5btmQjnJ5FG0R4x861QClatoHtxIfc/QNplTGg=="
+  },
+  {
+   "name":"CLSD ZCL_HTTP_IB_TEST_2927.abap",
+   "fingerprint":"Rx9XKKDg4lpXcV+k9i/rv2I0089bzFyAzs5qAypMo2XA8H9ambZeQuDg3AprMjXvGaL8v+bQh9rEzyp3QmRXnA=="
+  },
+  {
+   "name":"CPRI ZCL_HTTP_IB_TEST_2927.abap",
+   "fingerprint":"rUvIsYKJXdrLggau6ZRItxol8L2XQBuqPljHul/4wFZmrSiixToai4I+gX4/J8C7QPpcb34LwhtnT0KXRwEgJA=="
+  },
+  {
+   "name":"CPRO ZCL_HTTP_IB_TEST_2927.abap",
+   "fingerprint":"ZmWsZFdz42xVSld2z+aTkgrrZAMI8IGxVHdMESarPY03mZsdiv5qNmaxIplpSqorPXpO9238WW1W4Z4Bb7RD3w=="
+  },
+  {
+   "name":"CPUB ZCL_HTTP_IB_TEST_2927.abap",
+   "fingerprint":"vrChst/IqjglKkjMPTLHd7E+kU8Eo8cKky5zZt74nzTu0Bsl3CU+uAFb9CNlVFnFPTyYhO4eKtTksXZWFzzEcg=="
+  },
+  {
+   "name":"METH IF_HTTP_SERVICE_EXTENSION~HANDLE_REQUEST.abap",
+   "fingerprint":"Id6Jime01+aIU966LETelLJSGgUxbeTR1/JreMr9B/PQtRjibS6iCdQuo5H/zCVzAENgwzlEmT5vDao7P0Qw3w=="
+  },
+  {
+   "name":"REPS ZCL_HTTP_IB_TEST_2927=========CT.abap",
+   "fingerprint":"iL3jgn/oV7GCtKk8uz6d+Izo+oPQMlXKZ0L/LmDNMQnO6bMA4VIFE54e0DeL/I6WhhjMB2qE+z6b3GR753CKHw=="
+  }
+ ],
+ "fingerprintAll":"thHIYpfXur/FQLIAVrQi2Af3jgxWgpWF2g2O510Ux8Wvw5/SbPqQCCZga+CsapB1pMZEZxnvfyYKojkbGUKgIA=="
+}
