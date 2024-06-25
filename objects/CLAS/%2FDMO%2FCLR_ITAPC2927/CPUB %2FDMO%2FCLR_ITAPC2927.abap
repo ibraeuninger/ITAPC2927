@@ -1,0 +1,8 @@
+CLASS /dmo/clr_itapc2927 DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+
+    INTERFACES if_oo_adt_classrun .
